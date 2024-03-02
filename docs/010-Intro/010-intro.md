@@ -1,6 +1,7 @@
 ---
 id: Overview
 title: Introduction
+description: Welcome to DEGENX Documentation. Your guide to the DEGENX Ecosystem.
 sidebar_position: 10
 hide_table_of_contents: true
 slug: /
