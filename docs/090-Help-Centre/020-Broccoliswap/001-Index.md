@@ -1,7 +1,7 @@
 ---
 id: broccoliswap_help_index
 title: BroccoliSwap Help
-BroccoliSwap Help Centre provides useful information, guides and troubleshooting to BroccoliSwap users.
+description: BroccoliSwap Help Centre provides useful information, guides and troubleshooting to BroccoliSwap users.
 ---
 
 ## General
