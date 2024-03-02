@@ -28,3 +28,4 @@ jobs:
           aws_secret_access_key: ${{ secrets.DEGENX_DOCS_PRERELEASE_AWS_SECRET_ACCESS_KEY}}
           aws_bucket: ${{ secrets.DEGENX_DOCS_PRERELEASE_AWS_BUCKET }}
           source_dir: "build"
+          destination_dir: ""
