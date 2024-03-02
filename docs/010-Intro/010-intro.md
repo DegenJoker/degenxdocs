@@ -2,7 +2,7 @@
 id: Overview
 title: Introduction
 description: Welcome to DEGENX Documentation. Your guide to the DEGENX Ecosystem.
-image: "/img/social-card-overview.png"
+image: '/img/social-card-overview.png'
 sidebar_position: 10
 hide_table_of_contents: true
 slug: /
