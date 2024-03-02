@@ -16,8 +16,8 @@ import DocCardList from '@theme/DocCardList';
   alt="DEGENX Logo"
   className="logo-header-intro"
   sources={{
-    light: ('/img/DEGENX_TYPE_BLUE.svg'),
-    dark: ('/img/DEGENX_TYPE_CYAN.svg')
+    light: ('/img/degenx_type_blue.svg'),
+    dark: ('/img/degenx_type_cyan.svg')
   }}
 />
 

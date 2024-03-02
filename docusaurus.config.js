@@ -69,8 +69,8 @@ const config = {
         title: "DEGENX Documentation",
         logo: {
           alt: "DEGENX Logo",
-          src: "/img/DEGENX_BLUE_SINGLE.svg",
-          srcDark: "/img/DEGENX_CYAN_SINGLE.svg",
+          src: "/img/degenx_blue_single.svg",
+          srcDark: "/img/degenx_cyan_single.svg",
         },
         items: [],
       },
