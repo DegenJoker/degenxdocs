@@ -2,6 +2,7 @@
 sidebar_position: 20
 title: How Does it Work?
 description: Learn more about how Liquidity Backing mechanisms works.
+image: /img/social-card-lb-how-it-works.png
 ---
 import ThemedImage from '@theme/ThemedImage';
 

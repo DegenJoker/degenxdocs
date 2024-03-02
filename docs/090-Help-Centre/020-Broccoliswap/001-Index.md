@@ -2,6 +2,7 @@
 id: broccoliswap_help_index
 title: BroccoliSwap Help
 description: BroccoliSwap Help Centre provides useful information, guides and troubleshooting to BroccoliSwap users.
+image: /img/social-card-hc-bswap.png
 ---
 
 ## General

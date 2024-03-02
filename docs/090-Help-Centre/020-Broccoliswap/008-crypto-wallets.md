@@ -2,6 +2,7 @@
 sidebar_class_name: hidden
 title: What is a crypto wallet?
 description: A comprehensive guide about crypto wallets.
+image: /img/social-card-hc-bswap.png
 ---
 
 :::warning

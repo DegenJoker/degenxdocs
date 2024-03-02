@@ -3,6 +3,7 @@ id: liquidity_pools
 sidebar_position: 40
 title: Liquidity Pools
 description: View current DGNX Liquidity Pools.
+image: /img/social-card-liquidity-pools.png
 ---
 
 # DGNX - Liquidity Pools

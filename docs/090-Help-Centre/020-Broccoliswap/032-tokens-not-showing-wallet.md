@@ -2,6 +2,7 @@
 sidebar_class_name: hidden
 title: Tokens not showing in wallet
 description: Troubleshooting tokens not showing in your wallet after swapping on Broccoliswap.
+image: /img/social-card-hc-bswap.png
 ---
 Here are a few reasons why tokens might not show in you wallet after swapping on BroccoliSwap:
 

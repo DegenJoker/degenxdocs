@@ -2,6 +2,7 @@
 sidebar_class_name: hidden
 title: Create a new MetaMask wallet
 description: A comprehensive guide to create a MetaMask wallet.
+image: /img/social-card-hc-bswap.png
 ---
 
 import Tabs from '@theme/Tabs';

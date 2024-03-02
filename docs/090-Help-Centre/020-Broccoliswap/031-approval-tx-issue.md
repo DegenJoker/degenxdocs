@@ -2,6 +2,7 @@
 sidebar_class_name: hidden
 title: Approval Transaction Issues
 description: Troubleshooting transaction issues on Broccoliswap.
+image: /img/social-card-hc-bswap.png
 ---
 
 When you're having trouble with an approval transaction not behaving as anticipated, there are several steps you can undertake to diagnose and resolve the issue:

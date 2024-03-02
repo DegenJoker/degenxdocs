@@ -2,6 +2,7 @@
 id: buy_dgnx
 title: How to Buy DGNX
 description: Learn how to buy DGNX using BroccoliSwap, DEGENXs Multi-Chain Swap Aggregator.
+image: /img/social-card-how-to-buy-dgnx.png
 sidebar_position: 20
 ---
 import Tabs from '@theme/Tabs';

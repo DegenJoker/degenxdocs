@@ -1,6 +1,7 @@
 ---
 title: Broccoliswap
 description: Broccoliswap is a pioneering multichain Decentralised Exchange DEX aggregator, masterfully crafted by DEGENX.
+image: /img/social-card-bswap-what-is-it.png
 sidebar_position: 20
 id: broccoliswap
 ---

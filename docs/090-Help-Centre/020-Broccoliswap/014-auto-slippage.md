@@ -2,6 +2,7 @@
 sidebar_class_name: hidden
 title: What is Auto-Slippage?
 description: A comprehensive guide to Auto-Slippage on BroccoliSwap.
+image: /img/social-card-hc-bswap.png
 ---
 
 

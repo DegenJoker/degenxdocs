@@ -2,6 +2,7 @@
 sidebar_class_name: hidden
 title: How to connect a wallet to BroccoliSwap
 description: A comprehensive guide on how to connect your wallet to BroccoliSwap.
+image: /img/social-card-hc-bswap.png
 ---
 
 # How to connect your wallet to BroccoliSwap

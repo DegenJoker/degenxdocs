@@ -2,6 +2,7 @@
 sidebar_position: 30
 title: Extend Liquidity Backing
 description: Learn how a DGNX holder can propose change to assets stored within Liquidity Backing.
+image: /img/social-card-dao-liquidity-backing.png
 ---
 import ThemedImage from '@theme/ThemedImage';
 

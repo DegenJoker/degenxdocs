@@ -2,6 +2,7 @@
 sidebar_class_name: hidden
 title: What is Price Impact?
 description: A comprehensive guide to price impact.
+image: /img/social-card-hc-bswap.png
 ---
 
 Price impact signifies the effect your transaction has on the market price of a token. It's observed as the variance between the market's current price and the price after your trade influences the pool's liquidity.

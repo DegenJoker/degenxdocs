@@ -2,6 +2,7 @@
 sidebar_class_name: hidden
 title: Why does ETH swap to WETH?
 description: A comprehensive guide to Wrapped ETH usage.
+image: /img/social-card-hc-bswap.png
 ---
 
 Swapping ETH on BroccoliSwap involves converting it to WETH (Wrapped ETH). While you can start and finish your transactions with ETH on BroccoliSwap, the platform wraps all ETH into WETH during the swap process.

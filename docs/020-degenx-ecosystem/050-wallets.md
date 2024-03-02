@@ -3,6 +3,7 @@ id: wallets
 sidebar_position: 3
 title: Project Wallets
 description: View DEGENX project wallets and multisig signers.
+image: /img/social-card-project-wallets.png
 ---
 
 # DEGENX - Project Wallets

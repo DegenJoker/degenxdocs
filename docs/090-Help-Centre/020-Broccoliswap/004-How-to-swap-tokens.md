@@ -2,6 +2,7 @@
 sidebar_class_name: hidden
 title: How to swap tokens with BroccoliSwap
 description: A comprehensive guide to swapping tokens on BroccoliSwap, DEGENX's Multi-Chain Swap Aggregator.
+image: /img/social-card-hc-bswap.png
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

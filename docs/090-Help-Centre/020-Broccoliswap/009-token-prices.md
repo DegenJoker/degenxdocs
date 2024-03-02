@@ -2,6 +2,7 @@
 sidebar_class_name: hidden
 title: How are token prices determined?
 description: A comprehensive guide about token prices.
+image: /img/social-card-hc-bswap.png
 ---
 
 The price of tokens is influenced by the balance of each token within a liquidity pool, governed by the formula 

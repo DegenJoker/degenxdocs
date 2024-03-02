@@ -2,6 +2,7 @@
 sidebar_class_name: hidden
 title: How to disconnect a wallet from BroccoliSwap
 description: A comprehensive guide on how to disconnect your wallet from BroccoliSwap.
+image: /img/social-card-hc-bswap.png
 ---
 
 # Disconnecting Your Wallet from BroccoliSwap

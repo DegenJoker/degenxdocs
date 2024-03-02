@@ -1,6 +1,7 @@
 ---
 title: Liquidity Backing
 description: DEGENX has introduced a pioneering Liquidity Backing feature, setting a foundational value for the DGNX token by establishing a growing pool of assets. Learn more about Liquidity Backing today.
+image: /img/social-card-lb-what-is-it.png
 id: liquidity_backing
 sidebar_position: 10
 ---
