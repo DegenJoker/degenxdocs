@@ -5,8 +5,7 @@
  */
 
 /* You can override the default Infima variables here. */
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap");
 
 :root {
   --ifm-color-primary: #ff6c26;
@@ -25,41 +24,6 @@
   --timeline-icon-bg2: #e2f5f4;
   --timeline-icon-color: #000000;
   --timeline-line-color: #ff6c26;
-
-  .footer {
-    --ifm-footer-background-color: #101622;
-  }
-
-  .hero__title,
-.hero__subtitle {
-
-  width: 50%;
-  @media screen and (max-width: 1280px) {
-    width: 80%;
-  }
-  @media screen and (max-width: 1760px) {
-    width: 50%;
-  }
-  @media screen and (max-width: 996px) {
-    width: 100%;
-  }
-
-}
-
-
-  h1 {
-    font-size: 2rem !important;
-    font-family: 'Orbitron', sans-serif;
-    font-weight: 900;
-  }
-  
-  h2 {
-    font-size: 1.5rem !important;
-  }
-  
-  h3 {
-    font-size: 1.25rem;
-  }
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -79,54 +43,65 @@ html[data-theme="dark"] {
   --timeline-icon-bg2: #e2f5f4;
   --timeline-icon-color: #ffffff; /* Adjusted for dark mode */
   --timeline-line-color: #ff6c26; /* Adjusted for dark mode */
-  
-  .navbar {
-    --ifm-navbar-background-color: rgb(13, 18, 28);
-  }
-  .footer--dark {
-    --ifm-footer-background-color: #101622;
-  }
-
-  .navbar__link {
-    &.button--primary {
-      &:hover {
-        color: var(--ifm-color-emphasis-100);
-      }
-    }
-  }
 }
 
-.navbar__link {
-  &.button--primary {
-    color: var(--ifm-button-color);
-    &:hover {
-      color: var(--ifm-color-emphasis-100);
-    }
-  }
+html[data-theme="dark"] .navbar {
+  --ifm-navbar-background-color: rgb(13, 18, 28);
+}
+html[data-theme="dark"] .footer--dark {
+  --ifm-footer-background-color: #101622;
+}
+html[data-theme="dark"] .navbar__link.button--primary:hover {
+  color: var(--ifm-color-emphasis-100);
+}
+
+.footer {
+  --ifm-footer-background-color: #101622;
 }
 
 .hero__title {
   margin-bottom: 1rem;
   font-size: 2.6rem;
-
 }
 .hero__subtitle {
   font-size: 1.3rem;
 }
+
 .hero__title,
 .hero__subtitle {
-
   width: 50%;
   @media screen and (max-width: 1024px) {
-    width: 80%;
+    .hero__title,
+    .hero__subtitle {
+      width: 80%;
+    }
   }
   @media screen and (max-width: 1760px) {
-    width: 50%;
+    .hero__title,
+    .hero__subtitle {
+      width: 50%;
+    }
   }
   @media screen and (max-width: 500px) {
-    width: 100%;
+    .hero__title,
+    .hero__subtitle {
+      width: 100%;
+    }
   }
+}
 
+h1 {
+  font-size: 2rem !important;
+  font-family: "Orbitron", sans-serif;
+  font-weight: 900;
+}
+
+h2 {
+  font-size: 1.5rem !important;
+}
+
+h3 {
+  font-size: 1.25rem;
 }
 
 .logo-header-intro {
@@ -134,7 +109,6 @@ html[data-theme="dark"] {
   width: auto;
   display: block;
   margin-left: 0px;
-
 }
 
 .vertical-timeline-element-title-img {
@@ -143,26 +117,27 @@ html[data-theme="dark"] {
   display: block;
   margin-left: 0;
   margin-right: auto;
-
 }
 
 .vertical-timeline-element-title {
   margin-left: 0;
   margin-right: auto;
   font-size: 1.5rem !important;
-  font-family: 'Orbitron', sans-serif;
+  font-family: "Orbitron", sans-serif;
   font-weight: 900;
-
 }
 
 .hidden {
   display: none !important;
-  }
+}
 
-  /* Container for the columns */
+/* Container for the columns */
 .columns-container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr); /* Creates three columns of equal width */
+  grid-template-columns: repeat(
+    2,
+    1fr
+  ); /* Creates three columns of equal width */
   gap: 20px; /* Space between columns */
   padding: 5px; /* Padding around the grid */
   align-items: start; /* Aligns items at the start of the column */
@@ -177,8 +152,8 @@ html[data-theme="dark"] {
 
 /* Ensure contents of each column are aligned to the top */
 .column ul {
-  margin-left: 50px ;
-  padding: 0; 
+  margin-left: 50px;
+  padding: 0;
   gap: 5px;
 }
 

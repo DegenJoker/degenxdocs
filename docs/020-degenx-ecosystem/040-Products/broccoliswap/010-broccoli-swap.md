@@ -7,7 +7,7 @@ import ThemedImage from '@theme/ThemedImage';
 
 # Products
 
-  <ThemedImage
+<ThemedImage
   alt="BroccoliSwap Logo"
   className="vertical-timeline-element-title-img"
   sources={{

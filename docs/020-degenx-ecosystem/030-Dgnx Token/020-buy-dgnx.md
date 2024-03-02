@@ -14,7 +14,7 @@ import ThemedImage from '@theme/ThemedImage';
 
 You can seamlessly exchange any token from ETH, BSC, AVAX, ARB, MATIC, or FTM (and more soon!) through **[BroccoliSwap](https://broccoliswap.com)** - DGNX's dedicated Multi-Chain Swap Aggregator. This platform ensures you receive the best prices available.
 
-  <ThemedImage
+<ThemedImage
   alt="BroccoliSwap Logo"
   className="vertical-timeline-element-title-img"
   sources={{

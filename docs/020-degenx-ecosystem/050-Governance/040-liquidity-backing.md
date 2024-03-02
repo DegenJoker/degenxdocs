@@ -7,7 +7,7 @@ import ThemedImage from '@theme/ThemedImage';
 
 # Governance 
 
-  <ThemedImage
+<ThemedImage
   alt="DEGENX DAO Logo"
   className="vertical-timeline-element-title-img"
   sources={{
