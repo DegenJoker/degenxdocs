@@ -22,7 +22,7 @@ This guide will help you to create a new crypto wallet with MetaMask for mobile 
   <TabItem value="mobile" label="Mobile" default>
   Installation Steps:
 
-    Download the MetaMask app from [Google Play for Android]((https://play.google.com/store/apps/details?id=io.metamask&referrer=utm_source%3Dmetamask.io&pli=1)) or the [App Store for iOS]((https://apps.apple.com/gb/app/metamask-blockchain-wallet/id1438144202)) devices, respectively, and follow the setup instructions provided.
+    Download the MetaMask app from [Google Play for Android](https://play.google.com/store/apps/details?id=io.metamask) or the [App Store for iOS](https://apps.apple.com/gb/app/metamask-blockchain-wallet/id1438144202) devices, respectively, and follow the setup instructions provided.
   </TabItem>
   <TabItem value="desktop" label="Desktop">
 Installation Steps:

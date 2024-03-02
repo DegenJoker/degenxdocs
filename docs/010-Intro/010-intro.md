@@ -33,7 +33,7 @@ import DocCardList from '@theme/DocCardList';
 	
 ### Liquidity Backing
 
-    Enjoy maximum security with our Liquidity Backing mechanism. Your investments are safeguarded with an independent growing pool of assets, creating an internal value for the DGNX token separate from it’s market value. **Learn more about [Liquidity Backing](/docs/020-degenx-ecosystem/040-Products/Liquidity_Backing/)**
+    Enjoy maximum security with our Liquidity Backing mechanism. Your investments are safeguarded with an independent growing pool of assets, creating an internal value for the DGNX token separate from it’s market value. **Learn more about [Liquidity Backing](020-degenx-ecosystem/040-Products/Liquidity_Backing/010-liquidity-backing.md)**
 
 ### Explore Innovative DeFi Products
 
