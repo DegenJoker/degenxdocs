@@ -1,0 +1,214 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+
+
+:root {
+  --ifm-color-primary: #ff6c26;
+  --ifm-color-primary-dark: #ff5809;
+  --ifm-color-primary-darker: #f95000;
+  --ifm-color-primary-darkest: #cd4200;
+  --ifm-color-primary-light: #ff8043;
+  --ifm-color-primary-lighter: #ff8a52;
+  --ifm-color-primary-lightest: #ffa87e;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  --timeline-bg-color: #f2f3f9;
+  --timeline-text-color: #000000;
+  --timeline-icon-bg: #0f978e;
+  --timeline-icon-bg2: #e2f5f4;
+  --timeline-icon-color: #000000;
+  --timeline-line-color: #ff6c26;
+
+  .footer {
+    --ifm-footer-background-color: #101622;
+  }
+
+  .hero__title,
+.hero__subtitle {
+
+  width: 50%;
+  @media screen and (max-width: 1280px) {
+    width: 80%;
+  }
+  @media screen and (max-width: 1760px) {
+    width: 50%;
+  }
+  @media screen and (max-width: 996px) {
+    width: 100%;
+  }
+
+}
+
+
+  h1 {
+    font-size: 2rem !important;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+  }
+  
+  h2 {
+    font-size: 1.5rem !important;
+  }
+  
+  h3 {
+    font-size: 1.25rem;
+  }
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+html[data-theme="dark"] {
+  --ifm-color-primary: #ff6c26;
+  --ifm-color-primary-dark: #ff5809;
+  --ifm-color-primary-darker: #f95000;
+  --ifm-color-primary-darkest: #cd4200;
+  --ifm-color-primary-light: #ff8043;
+  --ifm-color-primary-lighter: #ff8a52;
+  --ifm-color-primary-lightest: #ffa87e;
+  --ifm-background-color: #0d121c;
+
+  --timeline-bg-color: #1e232d; /* Darker background */
+  --timeline-text-color: #ffffff; /* Lighter text */
+  --timeline-icon-bg: #0f978e; /* Adjusted for dark mode */
+  --timeline-icon-bg2: #e2f5f4;
+  --timeline-icon-color: #ffffff; /* Adjusted for dark mode */
+  --timeline-line-color: #ff6c26; /* Adjusted for dark mode */
+  
+  .navbar {
+    --ifm-navbar-background-color: rgb(13, 18, 28);
+  }
+  .footer--dark {
+    --ifm-footer-background-color: #101622;
+  }
+
+  .navbar__link {
+    &.button--primary {
+      &:hover {
+        color: var(--ifm-color-emphasis-100);
+      }
+    }
+  }
+}
+
+.navbar__link {
+  &.button--primary {
+    color: var(--ifm-button-color);
+    &:hover {
+      color: var(--ifm-color-emphasis-100);
+    }
+  }
+}
+
+.hero__title {
+  margin-bottom: 1rem;
+  font-size: 2.6rem;
+
+}
+.hero__subtitle {
+  font-size: 1.3rem;
+}
+.hero__title,
+.hero__subtitle {
+
+  width: 50%;
+  @media screen and (max-width: 1024px) {
+    width: 80%;
+  }
+  @media screen and (max-width: 1760px) {
+    width: 50%;
+  }
+  @media screen and (max-width: 500px) {
+    width: 100%;
+  }
+
+}
+
+.logo-header-intro {
+  max-height: 40px;
+  width: auto;
+  display: block;
+  margin-left: 0px;
+
+}
+
+.vertical-timeline-element-title-img {
+  max-height: 45px;
+  width: auto;
+  display: block;
+  margin-left: 0;
+  margin-right: auto;
+
+}
+
+.vertical-timeline-element-title {
+  margin-left: 0;
+  margin-right: auto;
+  font-size: 1.5rem !important;
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 900;
+
+}
+
+.hidden {
+  display: none !important;
+  }
+
+  /* Container for the columns */
+.columns-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Creates three columns of equal width */
+  gap: 20px; /* Space between columns */
+  padding: 5px; /* Padding around the grid */
+  align-items: start; /* Aligns items at the start of the column */
+}
+
+/* Individual columns */
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Space between items in a column */
+}
+
+/* Ensure contents of each column are aligned to the top */
+.column ul {
+  margin-left: 50px ;
+  padding: 0; 
+  gap: 5px;
+}
+
+@media (max-width: 650px) {
+  .columns-container {
+    grid-template-columns: 1fr; /* Single column for very small screens */
+  }
+}
+
+/* Container class */
+.two-columns-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+/* Child elements class */
+.child {
+  width: 48%;
+}
+
+/* Right child margin for spacing */
+.child-right {
+  margin-right: 2%;
+}
+
+@media (max-width: 650px) {
+  .child,
+  .child-right {
+    width: 100%; /* Make each child take full width */
+    margin-right: 0; /* Remove the margin from the right child */
+  }
+}

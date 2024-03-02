@@ -1,0 +1,10 @@
+{
+  "label": "BroccoliSwap",
+  "position": 20,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "broccoliswap"
+  }
+}
