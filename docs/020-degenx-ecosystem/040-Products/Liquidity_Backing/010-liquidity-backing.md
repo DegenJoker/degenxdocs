@@ -1,6 +1,6 @@
 ---
 title: Liquidity Backing
-description: DegenX has introduced a pioneering Liquidity Backing feature, setting a foundational value for the DGNX token by establishing a growing pool of assets. Learn more about Liquidity Backing today!
+description: DEGENX has introduced a pioneering Liquidity Backing feature, setting a foundational value for the DGNX token by establishing a growing pool of assets. Learn more about Liquidity Backing today.
 id: liquidity_backing
 sidebar_position: 10
 ---
@@ -20,7 +20,7 @@ import ThemedImage from '@theme/ThemedImage';
 
 ## Introduction
 
-DegenX (DGNX) has introduced a pioneering Liquidity Backing feature, setting a foundational value for the DGNX token by establishing a growing pool of assets. This mechanism allows DGNX holders to unlock their share of Liquidity Backing assets by choosing to burn their tokens through a bespoke interface within the DegenX Dapp. Access to the assets in Liquidity Backing is exclusively through the burning of DGNX tokens.
+DEGENX (DGNX) has introduced a pioneering Liquidity Backing feature, setting a foundational value for the DGNX token by establishing a growing pool of assets. This mechanism allows DGNX holders to unlock their share of Liquidity Backing assets by choosing to burn their tokens through a bespoke interface within the DEGENX dApp. Access to the assets in Liquidity Backing is exclusively through the burning of DGNX tokens.
 
 This guide aims to reveal the Liquidity Backing concept, using straightforward examples to illustrate its workings and the potential impact of asset value increases within this pool. We'll also delve into how DGNX holders can influence the selection of backing assets and modify the token's taxes via on-chain DAO proposals.
 
@@ -32,7 +32,7 @@ With every DGNX transaction (buy or sell), a small fraction (0.1%) is directed t
 
 ## Community Empowerment
 
-The power to shape the DegenX ecosystem lies firmly in the hands of its community. Through on-chain DAO (Decentralised Autonomous Organisation) proposals, DGNX holders actively participate in pivotal decisions, such as the selection of Liquidity Backing assets and the adjustment of token taxes. Initially set at 4% and now refined to 0.1%, these token taxes are a testament to the dynamic and responsive governance model that DegenX champions.
+The power to shape the DEGENX ecosystem lies firmly in the hands of its community. Through on-chain DAO (Decentralised Autonomous Organisation) proposals, DGNX holders actively participate in pivotal decisions, such as the selection of Liquidity Backing assets and the adjustment of token taxes. Initially set at 4% and now refined to 0.1%, these token taxes are a testament to the dynamic and responsive governance model that DegenX champions.
 
 
 ## Deciding on Backing Assets
@@ -81,7 +81,7 @@ Liquidity Backing creates potential arbitrage opportunities. Should the Liquidit
 With the increase in asset values, your share in the Liquidity Backing pool increased from $4,800 to $9,500. This means that the minimum value of your 21,000 DGNX tokens has increased from $4,800 to $9,500, reflecting the appreciation of the backing assets. If the market value of your 21,000 DGNX is $6,720 at 0.32 USD per $DGNX, then you now have the potential for arbitrage opportunities between the market price and the Liquidity Backing value.
 
 ## Conclusion
-DegenX's Liquidity Backing adds an extra layer of value and security to the DGNX token, ensuring a continuously growing pool of assets and presenting arbitrage opportunities for the astute investor. The control over backing assets and tax adjustments lies with the DGNX community, making the ecosystem transparent and decentralised.
+DEGENX's Liquidity Backing adds an extra layer of value and security to the DGNX token, ensuring a continuously growing pool of assets and presenting arbitrage opportunities for the astute investor. The control over backing assets and tax adjustments lies with the DGNX community, making the ecosystem transparent and decentralised.
 
 
 ## Additional Links

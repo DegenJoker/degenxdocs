@@ -1,7 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: What is a transaction hash?
-description: A comprehensive guide about transaction ID's.
+description: A comprehensive guide about transaction IDs.
 ---
 
 A transaction hash, also known as a transaction ID, is a unique string of characters that identifies each transaction on the blockchain.

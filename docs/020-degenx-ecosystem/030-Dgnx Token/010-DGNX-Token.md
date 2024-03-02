@@ -1,7 +1,7 @@
 ---
 id: DGNX_token
 title: DGNX Token
-description: DGNX is the governance token of the DEGENX Ecosystem, it is the cryptocurrency token that powers and benefits all holders in the DEGENX ecosystem.
+description: DGNX is the governance token of the DEGENX Ecosystem, it is the cryptocurrency token that powers and benefits all holders in the DEGENX Ecosystem.
 sidebar_position: 10
 ---
 

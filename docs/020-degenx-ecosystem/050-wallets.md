@@ -2,7 +2,7 @@
 id: wallets
 sidebar_position: 3
 title: Project Wallets
-description: View DEGENX project wallets and multi-sig signers.
+description: View DEGENX project wallets and multisig signers.
 ---
 
 # DEGENX - Project Wallets

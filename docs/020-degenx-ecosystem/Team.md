@@ -1,7 +1,7 @@
 ---
 id: team
 title: Team 
-Description: Come and meet the DEGENX team! View the technical expertise we offer to the DEGENX Ecosystem.
+Description: Come and meet the DEGENX team. View the technical expertise we offer to the DEGENX Ecosystem.
 sidebar_position: 4
 ---
 # DEGENX - Meet The Team

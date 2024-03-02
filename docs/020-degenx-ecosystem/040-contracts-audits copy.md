@@ -2,7 +2,7 @@
 id: contracts-and-audits
 sidebar_position: 2
 title: Contracts & Audits
-Description: Safety and Security! View a comprehensive list of DEGENX smart contracts and audits.
+Description: Safety and Security. View a comprehensive list of DEGENX smart contracts and audits.
 ---
 
 # DEGENX - Contracts & Audits
