@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: What is a Crypto Wallet Address?
+description: A comprehensive guide to Wallet Addresses.
 ---
 
 A crypto wallet address serves as your digital wallet's public identifier, appearing as a unique sequence of random characters. Think of it as your digital address, required for securely sending and receiving cryptocurrencies. Additionally, your wallet address enables you to track your transactions via a block explorer. 

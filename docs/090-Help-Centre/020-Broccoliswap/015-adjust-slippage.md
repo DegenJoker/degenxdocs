@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: Adjusting Slippage on BroccoliSwap
+description: A comprehensive guide on how to manually adjust your slippage settings on BroccoliSwap.
 ---
 
 Price Slippage refers to the variance in the expected token price at the time of initiating a swap versus the actual price received upon completion. It occurs due to market movements during the transaction process.

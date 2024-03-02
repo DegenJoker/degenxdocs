@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: How are network fees determined?
+description: A comprehensive guide about determining nework fees.
 ---
 
 Network fees, commonly referred to as gas fees, are influenced by the principles of supply and demand within the mining community. Essentially, the cost fluctuates based on the network's activity level.

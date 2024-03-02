@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: What is a Token Fee?
+description: A comprehensive guide to token fees.
 ---
 
 A token fee, also known as token tax, refers to the charge applied when purchasing, selling, or transferring a particular token. 

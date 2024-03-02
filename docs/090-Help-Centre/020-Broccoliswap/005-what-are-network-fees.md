@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: What are network fees?
+description: A comprehensive guide to network fees.
 ---
 
 Network fees, often referred to as gas fees, are charges paid to the network validators for processing your cryptocurrency transactions. These fees compensate for the computational energy required to process and validate transactions on the blockchain.

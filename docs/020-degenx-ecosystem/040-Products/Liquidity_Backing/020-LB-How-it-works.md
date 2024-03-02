@@ -1,6 +1,7 @@
 ---
 sidebar_position: 20
 title: How Does it Work?
+description: Learn more about how Liquidity Backing mechanisms works.
 ---
 import ThemedImage from '@theme/ThemedImage';
 

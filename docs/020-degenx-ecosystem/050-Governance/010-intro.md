@@ -1,6 +1,7 @@
 ---
 id: intro_governance
 title: Governance & DAO
+description: Learn about DEGENX DAO and Governance.
 sidebar_position: 10
 ---
 import ThemedImage from '@theme/ThemedImage';

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 30
 title: LinkBridge
+description: LinkBridge acts as a bridge, enabling the seamless transfer of DGNX between supported networks. But LinkBridge is not just a typical token bridge; it's designed to also facilitate the transfer of DAO governance decisions.
 ---
 
 import Tabs from '@theme/Tabs';

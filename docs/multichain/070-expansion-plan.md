@@ -1,6 +1,8 @@
 ---
 id: expansion_plan
 sidebar_position: 70
+title: Multichain
+description: View DEGENX Ecosystem multi-chain expansion plans.
 ---
 
 # Multichain

@@ -1,6 +1,7 @@
 ---
 id: change-tokenomics-proposal
 title: Change Tokenomics
+description: Learn how to propose a DGNX tokenomics change with DEGENX DAO.
 sidebar_position: 30
 ---
 import ThemedImage from '@theme/ThemedImage';

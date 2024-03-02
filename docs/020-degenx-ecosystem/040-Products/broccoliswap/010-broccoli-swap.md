@@ -1,5 +1,6 @@
 ---
 title: Broccoliswap
+description: Broccoliswap is a pioneering multi-chain Decentralised Exchange (DEX) aggregator, masterfully crafted by DEGENX. It stands out in the crypto space by harnessing a bespoke integration of Rubic technology, positioning itself as the most user-friendly bridge and swap aggregator available today.
 sidebar_position: 20
 id: broccoliswap
 ---

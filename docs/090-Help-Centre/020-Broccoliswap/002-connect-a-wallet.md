@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: How to connect a wallet to BroccoliSwap
+description: A comprehensive guide on how to connect your wallet to BroccoliSwap.
 ---
 
 # How to connect your wallet to BroccoliSwap

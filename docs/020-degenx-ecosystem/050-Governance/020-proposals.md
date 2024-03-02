@@ -1,6 +1,7 @@
 ---
 id: create-proposal
 title: Proposals
+description: Learn how to create a proposal for DEGENX DAO.
 sidebar_position: 20
 ---
 import ThemedImage from '@theme/ThemedImage';

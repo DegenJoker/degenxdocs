@@ -1,6 +1,7 @@
 ---
 id: extend-liquidity-backing-proposal
 title: Extend Liquidity Backing
+description: Learn how a DGNX holder can propose change to assets stored within Liquidity Backing.
 sidebar_position: 40
 ---
 import ThemedImage from '@theme/ThemedImage';

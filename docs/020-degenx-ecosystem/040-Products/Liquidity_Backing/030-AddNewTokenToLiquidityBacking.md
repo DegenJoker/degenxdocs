@@ -1,6 +1,7 @@
 ---
 sidebar_position: 30
 title: Extend Liquidity Backing
+description: Learn how a DGNX holder can propose change to assets stored within Liquidity Backing.
 ---
 import ThemedImage from '@theme/ThemedImage';
 

@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: What is a crypto wallet?
+description: A comprehensive guide about crypto wallets.
 ---
 
 :::warning

@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: How to revoke token approval
+description: A comprehensive guide on how to revoke token approvals.
 ---
 
 Before executing your first swap on BroccoliSwap, you must grant permission by approving the token you wish to swap, allowing BroccoliSwap to access it from your wallet. However, there might be instances where you'd need to revoke this approval due to reasons such as:

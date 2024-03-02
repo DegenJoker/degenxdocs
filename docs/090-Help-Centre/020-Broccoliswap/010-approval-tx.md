@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: What is an Approval Transaction?
+description: A comprehensive guide about approval transactions.
 
 ---
 In the world of BroccoliSwap, and indeed across most platforms dealing with ERC20 tokens on the Ethereum network, you're required to authorize a smart contract to manage the tokens on your behalf. This permission is granted through what's known as an "approve transaction." You need to do this once for each ERC20 token you wish to swap.

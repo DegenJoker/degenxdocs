@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: Price Impact vs. Price Slippage
+description: A comprehensive guide to price impact and price slippage.
 ---
 
 While both terms are related to price changes in cryptocurrency trading, they are distinct:

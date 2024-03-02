@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: What is a Liquidity Pool?
+description: A comprehensive guide to liquidity pools.
 ---
 
 A liquidity pool is a collection of assets locked in a smart contract, facilitating asset trading on a decentralised exchange (DEX). Unlike traditional financial systems that rely on a central limit order book to match buy and sell orders based on price and demand, DEXs often employ an Automated Market Maker (AMM) model. This model utilises liquidity pools containing pairs of assets to determine trading prices algorithmically.

@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: Create a new MetaMask wallet
+description: A comprehensive guide to create a MetaMask wallet.
 ---
 
 import Tabs from '@theme/Tabs';

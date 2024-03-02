@@ -1,6 +1,7 @@
 ---
 sidebar_class_name: hidden
 title: Swap Failed
+description: Troubleshooting a failed swap on BroccoliSwap.
 ---
 
 If you encounter a "Swap Failed" error while using BroccoliSwap, several factors could be at play. Here's a breakdown of potential issues and how to address them:

@@ -1,5 +1,6 @@
 ---
 title: FAQ
+decription: Get answers to the most common BroccoiSwap questions.
 sidebar_position: 20
 ---
 import ThemedImage from '@theme/ThemedImage';

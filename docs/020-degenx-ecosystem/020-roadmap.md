@@ -1,6 +1,7 @@
 ---
 id: Roadmap
 title: Roadmap
+description: View DEGENX Ecosystem Roadmap, including achievements, milestones and Work In Progress, check back regularly for updates!
 sidebar_position: 1
 hide_table_of_contents: true
 ---
