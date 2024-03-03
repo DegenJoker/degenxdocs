@@ -20,6 +20,8 @@ jobs:
 
       - name: Install & build
         run: yarn install --frozen-lockfile && yarn build
+        env:
+          DEGENX_DOCS_URL: ${{secrets.DEGENX_DOCS_URL}} 
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v2

@@ -5,6 +5,9 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from "prism-react-renderer";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -18,7 +21,7 @@ const config = {
   favicon: "img/favicon2.ico",
 
   // Set the production url of your site here
-  url: "https://docs.dgnx.finance",
+  url: `${process.env.DEGENX_DOCS_URL}`,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
