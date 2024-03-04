@@ -121,7 +121,7 @@ const config = {
                 href: "https://coinmarketcap.com/currencies/degenx",
               },
               {
-                label: "Coingecko",
+                label: "CoinGecko",
                 href: "https://www.coingecko.com/en/coins/degenx",
               },
               {
