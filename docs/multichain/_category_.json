@@ -1,0 +1,10 @@
+{
+  "label": "Multichain",
+  "position": 60,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "expansion_plan"
+  }
+}
