@@ -20,5 +20,5 @@ import ThemedImage from '@theme/ThemedImage';
 ## Propose Liquidity Backing Change
 
 :::info
-This area will offer an explanation how to extend the Liqduity Backing of DegenX. If you want to know, how to programmatically extend the Liquidity Backing, you should visit our Liquidity Backing developer guide.
+This area will offer an explanation how to extend the Liqduity Backing of DEGENX. If you want to know, how to programmatically extend the Liquidity Backing, you should visit our Liquidity Backing developer guide.
 :::

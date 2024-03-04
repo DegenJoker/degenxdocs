@@ -33,7 +33,7 @@ With every DGNX transaction (buy or sell), a small fraction (0.1%) is directed t
 
 ## Community Empowerment
 
-The power to shape the DEGENX ecosystem lies firmly in the hands of its community. Through on-chain DAO (Decentralised Autonomous Organisation) proposals, DGNX holders actively participate in pivotal decisions, such as the selection of Liquidity Backing assets and the adjustment of token taxes. Initially set at 4% and now refined to 0.1%, these token taxes are a testament to the dynamic and responsive governance model that DegenX champions.
+The power to shape the DEGENX ecosystem lies firmly in the hands of its community. Through on-chain DAO (Decentralised Autonomous Organisation) proposals, DGNX holders actively participate in pivotal decisions, such as the selection of Liquidity Backing assets and the adjustment of token taxes. Initially set at 4% and now refined to 0.1%, these token taxes are a testament to the dynamic and responsive governance model that DEGENX champions.
 
 
 ## Deciding on Backing Assets

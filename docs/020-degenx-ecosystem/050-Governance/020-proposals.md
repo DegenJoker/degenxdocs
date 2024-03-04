@@ -18,13 +18,13 @@ import ThemedImage from '@theme/ThemedImage';
   }}
 />
 
-## Accessing Tally for DegenX DAO
+## Accessing Tally for DEGENX DAO
 
 Participating in the governance of DEGENX DAO involves a series of steps that enable token holders to propose changes to the operational contracts of the DAO. This process is facilitated through Tally, a platform that supports DAO governance by allowing users to create and vote on proposals.
 
-#### Navigate to the DegenX Governance Page on Tally:
+#### Navigate to the DEGENX Governance Page on Tally:
 
-- Visit the specified Tally URL dedicated to the DegenX ecosystem governance.
+- Visit the specified Tally URL dedicated to the DEGENX ecosystem governance.
 - https://www.tally.xyz/gov/degenx-ecosystem 
 
 #### Connect Your Wallet: 
@@ -39,7 +39,7 @@ Delegating your tokens is important as it verifies your token holdings and grant
 
 ## Creating a New Proposal
 
-Here's the simplified guide with a numbered layout for engaging with the DegenX Governance Page on Tally:
+Here's the simplified guide with a numbered layout for engaging with the DEGENX Governance Page on Tally:
 
 1. **Navigate to the Governance Page:**
    - Go to the Tally website and access the DEGENX Ecosystem governance section at [https://www.tally.xyz/gov/degenx-ecosystem](https://www.tally.xyz/gov/degenx-ecosystem).
@@ -62,7 +62,7 @@ Here's the simplified guide with a numbered layout for engaging with the DegenX 
    - **Reviewing the Proposal:** Carefully review your proposal details and simulate its execution to ensure it functions as expected.
    - **Submitting the Proposal:** If the simulation results are satisfactory, submit your proposal on-chain to enable voting by the DAO members.
 
-This guide simplifies the steps to actively participate in the governance of the DegenX ecosystem, ensuring that even newcomers can understand and engage with the process effectively.
+This guide simplifies the steps to actively participate in the governance of the DEGENX ecosystem, ensuring that even newcomers can understand and engage with the process effectively.
 
 ## Proposal Templates
 
