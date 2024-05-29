@@ -54,4 +54,4 @@ BroccoliSwap Pro is in live development. We are adding new features regularly.
 :::
 
 
-For guidance and troubleshooting with BroccoliSwap, check out our **[BroccoliSwap FAQ's](/docs/020-degenx-ecosystem/040-Products/broccoliswap/020-FAQ_brocswap.md)** or visit our dedicated **[BroccoliSwap Help Centre](/docs/090-Help-Centre/020-Broccoliswap/001-Index.md)**
+For guidance and troubleshooting with BroccoliSwap, check out our **[BroccoliSwap FAQ's](/docs/020-degenx-ecosystem/040-Products/020-broccoliswap/020-FAQ_brocswap.md)** or visit our dedicated **[BroccoliSwap Help Centre](/docs/090-Help-Centre/020-Broccoliswap/001-Index.md)**
