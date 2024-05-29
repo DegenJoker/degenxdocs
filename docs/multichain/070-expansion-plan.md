@@ -13,7 +13,7 @@ DGNX is now available on **Avalanche** and **Ethereum** networks! View all **[DG
 
 ## How Does DGNX Plan to Operate Across Multiple Chains?
 
-DEGENX's governance token, DGNX, is set to embrace a multi-chain future through the use of **[LinkBridge](/docs/020-degenx-ecosystem/040-Products/050-linkbridge.md)**, it’s custom bridge protocol, and interoperability protocols. This approach allows DGNX to easily hop between blockchains. When DGNX is bridged across chains, it's temporarily parked on the original blockchain while a matching token appears on the destination chain. Thanks to interoperability protocols, DGNX can move seamlessly between these chains, offering holders the flexibility to tap into the unique benefits of various blockchains.
+DEGENX's governance token, DGNX, is set to embrace a multi-chain future through the use of **[LinkBridge](/docs/020-degenx-ecosystem/040-Products/040-linkbridge.md)**, it’s custom bridge protocol, and interoperability protocols. This approach allows DGNX to easily hop between blockchains. When DGNX is bridged across chains, it's temporarily parked on the original blockchain while a matching token appears on the destination chain. Thanks to interoperability protocols, DGNX can move seamlessly between these chains, offering holders the flexibility to tap into the unique benefits of various blockchains.
 
 ## Benefits of DGNX Going Multi-Chain
 
