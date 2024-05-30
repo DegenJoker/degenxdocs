@@ -84,7 +84,7 @@ const config = {
             items: [
               {
                 label: "Tokenomics",
-                to: "degenx-ecosystem/Dgnx%20Token/tokenomics",
+                to: "degenx-ecosystem/token/tokenomics",
               },
               {
                 label: "Contracts & Audits",

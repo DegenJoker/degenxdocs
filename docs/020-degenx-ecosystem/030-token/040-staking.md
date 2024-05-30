@@ -25,7 +25,7 @@ The revenue will be distributed across four staking pools, each with a different
 
 ## How To Stake
 
-If you're new to our Ecosystem and want to contribute via staking, you can look up the [How to Buy DGNX](/docs/020-degenx-ecosystem/030-Dgnx Token/020-buy-dgnx.md) section.
+If you're new to our Ecosystem and want to contribute via staking, you can look up the [How to Buy DGNX](/docs/020-degenx-ecosystem/030-token/020-buy-dgnx.md) section.
 
 If you already have DGNX tokens, you can visit our [staking section in the DEGENX dApp](https://dgnx.finance/dapp/staking) and look up [How To Stake](/docs/020-degenx-ecosystem/040-Products/040-stakex/030-how-to-stake.mdx) in order you need more information about how you can stake your DGNX.
 
