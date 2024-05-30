@@ -2,8 +2,8 @@
 id: staking
 sidebar_position: 40
 title: Staking
-description: View current DGNX Liquidity Pools.
-image: /img/social-card-liquidity-pools.png
+# description: View current DGNX Liquidity Pools.
+# image: /img/social-card-liquidity-pools.png
 ---
 
 # DGNX - Staking
