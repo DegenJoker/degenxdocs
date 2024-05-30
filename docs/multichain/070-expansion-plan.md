@@ -8,7 +8,7 @@ description: View DEGENX Ecosystem multi-chain expansion plans.
 # Multichain
 
 :::info
-DGNX is now available on **Avalanche** and **Ethereum** networks! View all **[DGNX Liquidity Pools](/docs/020-degenx-ecosystem/030-Dgnx%20Token/040-Liquidity-Pools.md)**.
+DGNX is now available on **Avalanche** and **Ethereum** networks! View all **[DGNX Liquidity Pools](/docs/020-degenx-ecosystem/030-Dgnx%20Token/050-Liquidity-Pools.md)**.
 :::
 
 ## How Does DGNX Plan to Operate Across Multiple Chains?
