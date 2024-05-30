@@ -30,7 +30,7 @@ import DocCardList from '@theme/DocCardList';
 
 ### Revenue-Sharing Rewards
 
-    One of the perks of being part of DEGENX is sharing in the ecosystem's success. Revenue generated from various services and products is distributed back to DGNX stakers. This means the more the ecosystem grows, the more rewards you can potentially earn. **Learn more about [StakeX](/docs/020-degenx-ecosystem/040-Products/040-stakex/010-introduction.md)**
+    One of the perks of being part of DEGENX is sharing in the ecosystem's success. Revenue generated from various services and products is distributed back to DGNX stakers. This means the more the ecosystem grows, the more rewards you can potentially earn. **Learn more about [STAKEX](/docs/020-degenx-ecosystem/040-Products/040-stakex/010-introduction.md)**
 
 	
 ### Liquidity Backing

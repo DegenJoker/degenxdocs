@@ -164,9 +164,9 @@ import ThemedImage from '@theme/ThemedImage';
     date="WORK IN PROGRESS"
     iconStyle={{ background: 'var(--timeline-icon-bg2)', color: 'var(--timeline-icon-color)' }}
   >
-     <h3 className="vertical-timeline-element-title">StakeX</h3>
+     <h3 className="vertical-timeline-element-title">STAKEX</h3>
     <p>
-      StakeX is set to become DEGENX's staking platform. If you hold and stake your DGNX tokens, you'll earn a portion of the profits from our revenue-generating products. At the moment, the specifics of how the protocol operates are 'Top Secret'. However, we can guarantee that StakeX will offer a unique experience not seen before in the DeFi space.
+      STAKEX is set to become DEGENX's staking platform. If you hold and stake your DGNX tokens, you'll earn a portion of the profits from our revenue-generating products. At the moment, the specifics of how the protocol operates are 'Top Secret'. However, we can guarantee that STAKEX will offer a unique experience not seen before in the DeFi space.
     </p>
   </VerticalTimelineElement>
 </VerticalTimeline>

@@ -1,6 +1,6 @@
 ---
 id: tokenomics
-sidebar_position: 60
+sidebar_position: 30
 title: Tokenomics
 description:  Learn more about DGNX Tokenomics. Tokenomics refers to the economic system and principles behind a cryptocurrency or blockchain project.
 image: /img/social-card-tokenomics.png

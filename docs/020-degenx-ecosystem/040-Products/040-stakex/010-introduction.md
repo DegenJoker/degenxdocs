@@ -10,9 +10,9 @@ id: introduction
 
 ## Introduction
 
-**STAKEX** is an audited staking protocol providing a new staking methodology, powered by the DEGENX Ecosystem. It's a deployable protocol for projects based on EVM networks like Ethereum, Binance Smart Chain, Base, Arbitrum, Avalanche, and more.
+**STAKEX** is an [audited staking protocol](https://github.com/solidproof/projects/blob/d1a57884ece9a092cb3a2a8c219a3bd77a5493a6/DGNX/SmartContract_Audit_Solidproof_StakeX_from_DEGENX.pdf) providing a new staking methodology, powered by the DEGENX Ecosystem. It's a deployable protocol for projects based on EVM networks like Ethereum, Binance Smart Chain, Base, Arbitrum, Avalanche, and more.
 <!-- 
-STAKEX is gearing up to transform into DEGENX's premier staking platform, a move that promises to redefine the way holders of DGNX tokens can benefit. By choosing to stake your DGNX tokens on StakeX, you're not just holding them; you're putting them to work. This action entitles you to a share of the profits generated from DEGENX's suite of revenue-producing products. Although the inner workings of the protocol remain under wraps for now, the anticipation builds around what will be an unparalleled experience in the DeFi ecosystem. -->
+STAKEX is gearing up to transform into DEGENX's premier staking platform, a move that promises to redefine the way holders of DGNX tokens can benefit. By choosing to stake your DGNX tokens on STAKEX, you're not just holding them; you're putting them to work. This action entitles you to a share of the profits generated from DEGENX's suite of revenue-producing products. Although the inner workings of the protocol remain under wraps for now, the anticipation builds around what will be an unparalleled experience in the DeFi ecosystem. -->
 
 ### Core Features
 
